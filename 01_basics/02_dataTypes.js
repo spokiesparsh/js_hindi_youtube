@@ -13,7 +13,7 @@ let name = "Sparsh"
 
 // null => its a standalone value
 
-//undefines => when value is not assigned for now
+//undefined => when value is not assigned for now
 
 //symbol => to find uniqueness 
 
