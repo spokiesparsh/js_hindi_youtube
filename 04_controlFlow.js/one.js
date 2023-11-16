@@ -7,9 +7,11 @@
 
 const arr = []
 
+//to check in array conditions if the array is empty or not
 if( arr.length === 0 ){
     console.log("array is empty")
 }
+//=== is used to check the type as well as the value
 
 
 const obj = {}

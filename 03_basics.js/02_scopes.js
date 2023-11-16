@@ -4,7 +4,7 @@ if(true){
     var c = 30
 }
 
-// console.log(c)
+console.log(c)
 //isko print kruga tog print ho jayega kyuki yeh var stored hei and thats the only issue 
 //isko avoid krne ke liye let and const used
 

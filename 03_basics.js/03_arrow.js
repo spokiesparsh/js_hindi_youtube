@@ -6,7 +6,7 @@ const user = {
     }
 }
 
-// user.welcomeMessage()
+user.welcomeMessage()
 
 
 // const chai = () => {

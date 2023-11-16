@@ -10,7 +10,7 @@ const myArr2 = new Array(1,2,3)
 //myArr.pop()
 
 //myArr.unshift(9) matlab first position par daalna 9 ko, not that efficient but does the job
-//myArr.shirt() remove the first element of the array
+//myArr.shift() remove the first element of the array
 
 //includes and indexof
 

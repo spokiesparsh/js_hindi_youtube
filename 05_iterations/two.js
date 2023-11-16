@@ -5,7 +5,6 @@ for (const i of arr) {
     // console.log(i);
 }
 
-
 //maps 
 
 const map = new Map()
