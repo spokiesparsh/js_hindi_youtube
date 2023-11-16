@@ -1,12 +1,12 @@
 let myDate = new Date()
-console.log(myDate.toDateString())
-console.log(myDate.toISOString())
-console.log(myDate.toLocaleDateString())
+// console.log(myDate.toDateString())
+// console.log(myDate.toISOString())
+// console.log(myDate.toLocaleDateString())
 console.log(myDate.toLocaleString())
 
 
 let myCreatedDate = new Date(2023,10,8)
-console.log(myCreatedDate)
+// console.log(myCreatedDate)
 
 
 let myTimeStamp = Date.now()
